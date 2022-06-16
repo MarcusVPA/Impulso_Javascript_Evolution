@@ -5,4 +5,4 @@ Repositório para os desafios do Impulso Javascript Evolution
 | [Módulo I - Princípios de Desenvolvimento de Software][MI] |
 
 
-[MI]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
+[MI]: <https://github.com/MarcusVPA/Impulso_Javascript_Evolution>
